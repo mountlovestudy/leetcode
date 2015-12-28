@@ -26,6 +26,9 @@ class Solution_V1(object):
 	    return value
 
 
+"""
+	Reference https://en.wikipedia.org/wiki/Digital_root
+"""
 class Solution_V2(object):
     def addDigits(self, num):
         """
